@@ -99,3 +99,8 @@
     display: flex;
     justify-content: space-evenly;
 }
+.social icons{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40%;
+}
